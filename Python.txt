@@ -1,0 +1,12 @@
+Questions covered in class
+        Hello World with tab
+        Hello World with a new line
+        Character into ASCII Values
+        ASCII Values to  Character
+        Mathematical Operations Calculator
+        Operators
+
+Questions for fast learners
+       Formatted output 
+       Expression Evaluation Using Operator Precedence
+              a << 1 + b,a + b >> 1,not a > b and c < b,a == b or b == c and a != c
