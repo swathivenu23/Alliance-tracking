@@ -1,0 +1,9 @@
+Covered in class
+      Data types
+      Input ouput
+      Operators
+      Rounding Values
+      Arithmetic operators in C++
+Additional questions for fast learners
+     Expression evaluation
+     Geometric progression
