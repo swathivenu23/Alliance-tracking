@@ -3,21 +3,10 @@ Covered in class
       Data types
       Input ouput
       Rounding Values
-      Student Information Management System
-      User Registration System
       Operators
-      Arithmetic operators in C++
-      Profit Calculation for The Herald Newspaper
-      Fitness App
-      Team Games with Ross Geller
-      Tic Tac Toe
-      Opening the Enchanted Door
-      Finding the midpoint of two coordinates
+     
 Additional questions for fast learners
      Expression evaluation
      Geometric progression
-     Toggle the kth bit
-     Extract last set bit
-     Short-Circuit Evaluation
-     Bit-Manipulation Without Conditionals
+     
 
