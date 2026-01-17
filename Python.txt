@@ -1,12 +1,25 @@
+MODULE - 1
 Questions covered in class
         Hello World with tab
         Hello World with a new line
         Character into ASCII Values
         ASCII Values to  Character
+        Student Information Management System
+        User Registration System
         Mathematical Operations Calculator
         Operators
-
+        Arithmetic operators in C++
+        Profit Calculation for The Herald Newspaper
+        Fitness App
+        Team Games with Ross Geller
+        Tic Tac Toe
+        Opening the Enchanted Door
+        Finding the midpoint of two coordinates
 Questions for fast learners
        Formatted output 
        Expression Evaluation Using Operator Precedence
               a << 1 + b,a + b >> 1,not a > b and c < b,a == b or b == c and a != c
+       Toggle the kth bit
+       Extract last set bit
+       Short-Circuit Evaluation
+       Bit-Manipulation Without Conditionals
