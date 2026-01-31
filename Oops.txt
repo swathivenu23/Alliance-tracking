@@ -1,12 +1,45 @@
 MODULE - 1
 Covered in class
+
+Week 1:
       Data types
       Input ouput
       Rounding Values
       Operators
+      Arithmetic operators
+Week 2:
+    Conditional statements
+    Example questions
+    Temperature Check for Outdoor Activities
+    Predict the output Questions 
+Week 3:
+    Looping Statements
+    Teaching Digit Positions
+    Quality Check for Premium Products
+    Sum of Digits 
+    Authentication Check for Secure Locker Access
+    Arrays 
+Week 4:
+   1D Arrays
+   2D Arrays
+   Merging Attendance Records
+   Perfect Number
+   Add Digits
+   Palindrome Number
+   Sum of 1D array elements
      
 Additional questions for fast learners
+
+Week 1:
      Expression evaluation
      Geometric progression
-     
+Week 2:
+    Event Scheduling for Leap Year Celebrations
+Week 3:
+    Kaprekar Numbers
+Week 4:
+    Happy Number
+    Perfect Square
+    Nth digit
+    
 
