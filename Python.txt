@@ -1,5 +1,6 @@
 MODULE - 1
 Questions covered in class
+Week 1:
         Hello World with tab
         Hello World with a new line
         Character into ASCII Values
@@ -9,17 +10,76 @@ Questions covered in class
         Mathematical Operations Calculator
         Operators
         Arithmetic operators in C++
+Week 2:
         Profit Calculation for The Herald Newspaper
         Fitness App
         Team Games with Ross Geller
         Tic Tac Toe
         Opening the Enchanted Door
         Finding the midpoint of two coordinates
+Week 3:
+MODULE 2:
+      Conditional Statements
+      Check Whether a Triangle is a Right-Angled Triangle
+      Car Rental Charges for a Travel Agency
+      Movie Ticket Price Calculator
+      Trendy Number or not
+      Selecting the Second Best Candidate
+      Match Case
+      Checking vowel or consonant using match case
+      Electricity Bill
+        Output Prediction:
+            1.  if print("Hello"):
+                   print("World")
+            2.if print("Python") or True:
+                    print("Rocks")
+            3.if print("A") and print("B"):
+                   print("C")
+
+Week 4:
+     Looping
+     Example for FOR loop,WHILE loop
+     Printing reversed value
+     Multiplication Table
+     Fibonacci sequence
+     Count digits
+   for i in range(1, -5, -2):
+    print(i, end=" ")
+for i in range(3):
+    if i == 3:
+        break
+    print(i, end=" ")
+else:
+    print("End")
+
+
+
+
 Questions for fast learners
+Week1:
        Formatted output 
        Expression Evaluation Using Operator Precedence
               a << 1 + b,a + b >> 1,not a > b and c < b,a == b or b == c and a != c
        Toggle the kth bit
+
+Week 2
        Extract last set bit
        Short-Circuit Evaluation
        Bit-Manipulation Without Conditionals
+
+
+Week 3:
+     x = ""
+if x:
+    print("True")
+else:
+    print("False")
+Discount Calculator
+Password Validation
+
+Week 4:
+          Perfect Square in leetcode
+          Happy Number
+          Nth digit
+
+
